@@ -12,3 +12,8 @@ install python then install these packages:
 python -m pip install cryptography
 
 if it gives a package now found then install it
+
+
+then auth your account into the program by opening the link and putting the code
+
+(Need minecraft account for online mode servers)
